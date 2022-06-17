@@ -9,6 +9,7 @@
 ## Additional Resources
 
 - Azure Migrate
+  - [YouTube | Thomas Maurer | Migrate servers to Azure using Azure Migrate][6]
 - Discover
   - [MS | docs | Tutorial: Discover servers running in a VMware environment with Azure Migrate][2]
   - [MS | docs | Discover web apps and SQL Server instances in an existing project][5]
@@ -22,3 +23,4 @@
 [3]: https://docs.microsoft.com/en-us/azure/migrate/add-server-credentials
 [4]: https://docs.microsoft.com/en-us/azure/migrate/tutorial-assess-webapps
 [5]: https://docs.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project
+[6]: https://www.youtube.com/watch?v=yOKjbqbyF4A&ab_channel=ThomasMaurer
